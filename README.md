@@ -22,6 +22,3 @@ Microsoft Power BI for data visualization and Excel / CSV Dataset for HR employe
 
 Objective:
 To provide HR professionals with data-driven insights for understanding attrition trends, improving employee engagement, and enhancing overall workforce management.
-
-Snapshot:
-(https://github.com/Barleen19/HR-analytics/blob/main/Sample%20Shot.png)
